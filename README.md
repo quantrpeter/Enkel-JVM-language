@@ -1,6 +1,6 @@
 # Enkel
 
-[![Build Status](https://travis-ci.org/JakubDziworski/Enkel-JVM-language.svg?branch=master)](https://travis-ci.org/JakubDziworski/Enkel-JVM-language)  [![Join the chat at https://gitter.im/JakubDziworski/Enkel-JVM-language](https://badges.gitter.im/JakubDziworski/Enkel-JVM-language.svg)](https://gitter.im/JakubDziworski/Enkel-JVM-language?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/JakubDziworski/Enkel-JVM-language.svg?branch=master)](https://travis-ci.org/JakubDziworski/Enkel-JVM-language)
 
 Enkel is a simple programming language running on the  jvm
 
