@@ -7,7 +7,6 @@ import com.kubadziworski.domain.scope.LocalVariable
 import com.kubadziworski.domain.scope.Scope
 import com.kubadziworski.domain.type.BultInType
 import com.kubadziworski.domain.type.ClassType
-import com.sun.xml.internal.ws.org.objectweb.asm.Opcodes
 import org.objectweb.asm.MethodVisitor
 import spock.lang.Specification
 

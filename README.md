@@ -1,4 +1,4 @@
-# Enkel
+# Enkel (Peter fork)
 
 [![Build Status](https://travis-ci.org/JakubDziworski/Enkel-JVM-language.svg?branch=master)](https://travis-ci.org/JakubDziworski/Enkel-JVM-language)
 
